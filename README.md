@@ -1,4 +1,4 @@
-# .
+# 11ty-trial
 
 To install dependencies:
 
