@@ -1,0 +1,12 @@
+{
+  "name": "11ty-trial",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
